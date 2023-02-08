@@ -1,0 +1,6 @@
+contract=0xE4ca6070e02459B665d95f17cCCf03eaBa112FE0
+rpc=https://bsc-dataseed1.binance.org/
+privatekey=523a6764785ccee72424b3a19f2067600bc31cbe8cb9d49da852660b77fc4972
+betamount=0.01
+website=https://prophetx.io
+description=predict the price of bnb and win big!
